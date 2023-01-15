@@ -102,7 +102,7 @@ class LoginScreen extends StatelessWidget {
                       Padding(
                         padding: const EdgeInsets.symmetric(horizontal: 8.0),
                         child: Text(
-                          'Or continue wth',
+                          'Or continue with',
                           style: TextStyle(
                             color: Colors.grey[700],
                           ),
